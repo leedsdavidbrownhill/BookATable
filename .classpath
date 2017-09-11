@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/developer149/eclipse-workspace/BookATable/selenium-java-2.4.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/developer149/eclipse-workspace/BookATable/selenium-java-2.4.0.jar"/>
+	<classpathentry kind="lib" path="/Users/developer149/eclipse-workspace/BookATable/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/developer149/eclipse-workspace/BookATable/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="/Users/developer149/eclipse-workspace/BookATable/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/developer149/eclipse-workspace/BookATable/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/developer149/eclipse-workspace/BookATable/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="/Users/developer149/eclipse-workspace/BookATable/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/developer149/eclipse-workspace/BookATable/cssparser-0.9.23.jar"/>
+	<classpathentry kind="lib" path="/Users/developer149/eclipse-workspace/BookATable/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="/Users/developer149/eclipse-workspace/BookATable/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="/Users/developer149/eclipse-workspace/BookATable/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/developer149/eclipse-workspace/BookATable/htmlunit-2.27.jar"/>
+	<classpathentry kind="lib" path="/Users/developer149/eclipse-workspace/BookATable/htmlunit-core-js-2.27.jar"/>
+	<classpathentry kind="lib" path="/Users/developer149/eclipse-workspace/BookATable/htmlunit-driver-2.27.jar"/>
+	<classpathentry kind="lib" path="/Users/developer149/eclipse-workspace/BookATable/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="/Users/developer149/eclipse-workspace/BookATable/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="/Users/developer149/eclipse-workspace/BookATable/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="/Users/developer149/eclipse-workspace/BookATable/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/developer149/eclipse-workspace/BookATable/jetty-client-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="/Users/developer149/eclipse-workspace/BookATable/jetty-http-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="/Users/developer149/eclipse-workspace/BookATable/jetty-io-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="/Users/developer149/eclipse-workspace/BookATable/jetty-util-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="/Users/developer149/eclipse-workspace/BookATable/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/developer149/eclipse-workspace/BookATable/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/developer149/eclipse-workspace/BookATable/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="/Users/developer149/eclipse-workspace/BookATable/neko-htmlunit-2.27.jar"/>
+	<classpathentry kind="lib" path="/Users/developer149/eclipse-workspace/BookATable/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/developer149/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/2.53.1/selenium-firefox-driver-2.53.1.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.seleniumhq.selenium"/>
+			<attribute name="maven.artifactId" value="selenium-firefox-driver"/>
+			<attribute name="maven.version" value="2.53.1"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/developer149/.m2/repository/org/seleniumhq/selenium/selenium-api/2.53.1/selenium-api-2.53.1.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.seleniumhq.selenium"/>
+			<attribute name="maven.artifactId" value="selenium-api"/>
+			<attribute name="maven.version" value="2.53.1"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/developer149/eclipse-workspace/BookATable/selenium-server-standalone-2.7.0-patched-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/developer149/eclipse-workspace/BookATable/selenium-server-standalone-2.44.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
